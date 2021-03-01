@@ -4,11 +4,10 @@
 - 🌱 I’m currently learning programming fundamentals with Python🐍
 - ⚡ I’m curious about startups & computers
 
-### Planning My Future👁️
+### The next step in my learning path👁️
 
-- Android Development
-- AI
-- Entrepreneurship
+- Learn Android App Development
+
 
 ### 🤝 How to reach me:
 - [MA Website](https://MehdiArman.ir)
