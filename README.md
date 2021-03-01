@@ -1,4 +1,4 @@
-### Hey, it's MA!👋
+## Hey, it's MA!👋
 
 - 🌱 I’m currently learning programming fundamentals with Python🐍
 - 🎓 I’m currently a software student at ShamsiPour College
