@@ -6,7 +6,7 @@
 
 ### The next step in my learning path👁️
 
-- Learn Android App Development
+- 💻 Learn Android App Development
 
 
 ### 🤝 contact with me:
