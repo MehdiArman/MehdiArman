@@ -9,7 +9,7 @@
 - Learn Android App Development
 
 
-### 🤝 How to reach me:
+### 🤝 contact with me:
 - [MA Website](https://MehdiArman.ir)
 - [Telegram](https://t.me/MehdiArmana)
 
