@@ -6,7 +6,7 @@
 - ✍️ I write my thoughts on [my blog](https://MehdiArman.ir)
 - 🤝 You can text me in [Telegram](https://t.me/MehdiArmana)
 
-### The next step in my learning path👁️
+### The next steps in my learning path👁️
 
 - 💻 Android App Development
 - 🌐 English
